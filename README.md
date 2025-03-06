@@ -55,7 +55,7 @@
 </div>
 
 ## 📬 Get in Touch  
-[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hubert.wajda03@gmail.com)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-wajda) [![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://github.com/WajHub/WajHub/blob/main/CV_eng.pdf)
+[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hubert.wajda03@gmail.com)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-wajda) [![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://github.com/WajHub/WajHub/raw/main/CV_eng.pdf)
 
 
 ###
