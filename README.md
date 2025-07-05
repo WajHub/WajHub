@@ -5,7 +5,7 @@
 ###
 
 ## 👨‍💻 About Me  
-- 🌱 Java Developer @Sii Poland  
+- 🌱 Java Developer @sii-poland  
 - 🎓 **Computer Science student** at **Gdańsk University of Technology**  
 - 💪 Passionate about **programming** and **continuous learning**  
 - 🤝 Enjoys **collaborating in teams** and taking on **challenging projects**  
