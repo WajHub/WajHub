@@ -5,7 +5,7 @@
 ###
 
 ## 👨‍💻 About Me  
-- 🌱 Currently seeking **Full-Stack Web Developer Internship** opportunities  
+- 🌱 Java Developer @Sii Poland  
 - 🎓 **Computer Science student** at **Gdańsk University of Technology**  
 - 💪 Passionate about **programming** and **continuous learning**  
 - 🤝 Enjoys **collaborating in teams** and taking on **challenging projects**  
@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="10" alt="java logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="17" />
