@@ -16,7 +16,6 @@
 <h2 align="left">🔧 Tech Stack</h2>
 
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -58,14 +57,7 @@
   </a> 
 </p>
 
-<div align="left">
-</div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WajHub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ## 📬 Get in Touch  
 [![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hubert.wajda03@gmail.com)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-wajda) [![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://github.com/WajHub/WajHub/raw/main/CV_eng.pdf)
